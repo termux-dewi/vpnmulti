@@ -1,0 +1,6 @@
+{
+  "name": "VPN Multiplexer",
+  "description": "A dynamic multi-interface user-space network emulation and routing application using Android's VpnService and abstract Unix Domain Sockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
